@@ -37,6 +37,9 @@ public class MillionaireWS {
     private void saveArticle() throws IOException {
         int countArticle = 1;
         for (String urlStr : linksArticle){
+            System.out.println("===============================================================================\n");
+            System.out.println("MillionaireWS: "+String.valueOf(countArticle)+"/"+String.valueOf(linksArticle.size())+"\n");
+            System.out.println("===============================================================================\n");
             if (urlStr.contains("author")||urlStr.contains("newsletter-new")){
                 continue;
             }
@@ -112,10 +115,6 @@ public class MillionaireWS {
                 }
                 article2.close();
             }
-
-
-
-
             countArticle++;
         }
     }
