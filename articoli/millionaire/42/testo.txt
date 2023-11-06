@@ -1,0 +1,46 @@
+https://www.millionaire.it/lintelligenza-artificiale-crea-sempre-piu-opportunita-di-lavoro-nel-fintech-europeo-ecco-chi-sta-assumendo/
+
+L’intelligenza artificiale crea sempre più opportunità di lavoro nel Fintech europeo. Ecco chi sta assumendo
+
+DiRedazione Millionaire31 Agosto 2023
+
+Le aziende fintech più prestigiose d’Europa stanno cercando talenti nel settore tecnologico più in voga del momento: l’Intelligenza Artificiale. La competizione per attirare i migliori professionisti del settore si sta intensificando e il compenso può raggiungere fino a 160.000€ per un ingegnere specializzato in machine learning.
+
+Un recente articolo di Sifted ha raccolto alcune delle migliori offerte sul mercato. Ecco una panoramica delle principali fintech europee attivamente alla ricerca di talenti in AI:
+
+1. SumUp: 10 posizioni aperte in AI, con particolare focus sul rilevamento di frodi e l’implementazione di chatbot avanzati.
+
+2. Revolut: 7 data scientist, con competenze sul contrasto alle attività fraudolente e sulla valutazione del rischio.
+
+3. Monzo: 7 ruoli aperti, con salari che possono raggiungere i 167.000€, per esperti di machine learning applicata alla customer experience.
+
+4. Starling: Non ha ancora risposto riguardo al numero di posizioni aperte, ma il loro team di data science lavora su diverse posizioni.
+
+5. Qonto: Assume ingegneri di machine learning con specializzazione sulla detezione di frodi e sulla automazione delle transazioni.
+
+6. Zepz: Si ricercano professionisti che sappiano impiegare la machine learning per la previsione e il rilevamento delle frodi.
+
+7. OakNorth: 6 ruoli nel team di data science. L’azienda utilizza AI e ML all’inizio delle interazioni con i clienti e per l’analisi dei rischi.
+
+8. Mollie: Sebbene non abbia divulgato dettagli specifici, Mollie vede un futuro in cui l’AI gioca un ruolo cruciale nell’automazione e nell’efficienza.
+
+9. Checkout.com: Offre fino a 130.000€ per un ingegnere di machine learning con un focus sul rilevamento delle frodi.
+
+10. N26: Assumen un modellatore AMR, l’azienda si concentra sulla sicurezza bancaria e sulla riduzione delle frodi.
+
+11. Klarna: Anche se non ha fornito dati, Klarna ha recentemente lanciato un “motore di raccomandazione basato su AI”.
+
+12. Trade Republic: Offre un ruolo per un senior data engineer, ma non ha fornito dettagli sulle sue applicazioni AI.
+
+13. Wefox: Anche se non ha ruoli AI aperti al momento, la compagnia sviluppa modelli per aiutare i broker assicurativi a essere più produttivi.
+
+14. GoCardless: Utilizza machine learning per migliorare i tentativi di pagamento, con una percentuale di successo del 70% per i pagamenti inizialmente falliti.
+
+Queste fintech stanno ridefinendo il settore finanziario attraverso l’AI, creando nuove opportunità per gli esperti di tecnologia e data science. Con salari competitivi e progetti innovativi, il mercato italiano dovrebbe essere pronto a cogliere queste opportunità. 
+
+Questo spinge non solo le aziende fintech, ma anche le istituzioni formative e le università a rivedere e rafforzare i propri programmi di formazione nell’IA. L’Italia, con il suo crescente ecosistema di startup e le sue università di primo piano, ha l’opportunità di posizionarsi come leader nella formazione e nella fornitura di talenti AI per il settore fintech europeo.
+
+Per le aziende italiane che desiderano espandersi a livello europeo o collaborare con fintech di altre nazioni, è essenziale comprendere l’importanza dell’AI e come può essere sfruttata per migliorare i servizi e ridurre i rischi.
+
+Inoltre, con salari che possono raggiungere fino a €160.000 per ruoli specifici, è chiaro che l’investimento nell’AI non riguarda solo la tecnologia, ma anche l’attrazione dei migliori talenti. Questa tendenza rappresenta una grande opportunità per i professionisti IT italiani che desiderano intraprendere una carriera internazionale nel settore fintech.
+

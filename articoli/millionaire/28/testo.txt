@@ -1,0 +1,14 @@
+https://www.millionaire.it/nasce-sibylla-la-chatgpt-al-servizio-delle-universita/
+
+Nasce Sibylla, la ChatGPT al servizio delle università
+
+DiAlessandra Litrico12 Ottobre 2023
+
+Sibylla è il nuovo sistema innovativo di intelligenza artificiale sviluppato dall’Università di Pisa per fornire supporto agli studenti dell’Ateneo, in particolare stranieri, dato che la ChatGPT Made in Italy comprende anche la lingua straniera e risponde utilizzando la stessa, per fornire chiarimenti e istruzioni sul funzionamento di uffici, la loro dislocazione, l’adozione di specifici atti d’istituto o contenuti di regolamenti. 
+
+Sibylla è uno strumento Open Source sviluppato su ChatGPT, funziona attraverso il sistema Oraculum ed è il primo in assoluto nelle università italiane a utilizzare l’AI generativa sfruttando assistenti artificiali che forniscono informazioni sempre aggiornate, come spiega il suo sviluppatore, il professore Antonio Cisternino: “Saremo presto in grado di dare ai nostri utenti internazionali un’assistenza in tempo reale impensabile fino ad oggi. Sibylla è infatti in grado di rispondere nella stessa lingua in cui viene posta la domanda – spiega il docente- ma la cosa interessante è che la sua base di conoscenza è l’Italiano e questo mette tutti i nostri uffici perfettamente in grado di addestrarlo a rispondere sia alle domande più frequenti che a quelle relative ai contenuti di regolamenti e atti istituzionali. Il tutto con un notevole risparmio in termini di risorse”.
+
+Sibylla si distingue da ogni software, perché l’AI generativa viene potenziata da informazioni utili alla generazione senza dover fare ricorso a strumenti complessi come il raffinamento del modello. Ma non solo: potendo esercitare il controllo sul contenuto che funge da base della conoscenza, si riducono i margini di errore, scongiurando risposte sbagliate o non aggiornate. Tutti abbiamo compreso le potenzialità di strumenti come ChatGPT e Google Bard; tuttavia, possiedono ancora limiti quando si tratta di fornire conoscenze specifiche e settoriali. Nel caso di Sibylla, per esempio, quando si richiedono informazioni sui regolamenti, l’assistente non solo è in grado di fornirle, ma è capace di indicare anche il regolamento da cui queste informazioni sono state prese.
+
+Il software fa il suo dovere, fungendo da guida per tutti gli studenti dell’Ateneo, salvo avere qualche piccola titubanza con le domande in sardo, a cui comunque risponde in italiano. La sua efficienza, l’affidabilità, la possibilità di un costante aggiornamento e la capacità di rispondere a qualsivoglia domanda universitaria, lo renderanno presto uno strumento di portata nazionale, dato che presto verrà messo a disposizione di tutte le università italiane.
+
