@@ -1,20 +1,32 @@
-https://www.millionaire.it/i-benetton-si-lanciano-negli-investimenti-in-startup/
+https://www.millionaire.it/openai-lancia-il-servizio-per-creare-intelligenze-artificiali-senza-scrivere-una-riga-di-codice/
 
-I Benetton si lanciano negli investimenti in startup
+OpenAi lancia il servizio per creare intelligenze artificiali, senza scrivere una riga di codice.
 
-DiRedazione Millionaire3 Novembre 2023
+DiFilippo Catania8 Novembre 2023
 
-La famiglia Benetton non è conosciuta soltanto per maglioni colorati e pubblicità audaci! Da decenni ormai i ‘rami’ della famiglia avevano investito in svariate imprese, quali Autogrill, Autostrade e moltissime altre. Questa famiglia italiana sta ora esplorando nuovi orizzonti, tuffandosi nel mondo degli investimenti innovativi. E vogliono spingere sulle startup europee più promettenti!
+OpenAI ha inaugurato un’era nuova con il lancio del suo servizio GPT Builder, un sistema rivoluzionario che permette a chiunque di creare intelligenze artificiali personalizzate senza la necessità di scrivere codice. Questa innovazione, definita “Build with natural language”, potrebbe trasformare il modo in cui pensiamo al lavoro e alla creatività umana.
 
-I Benetton hanno infatti appena creato 2100 Ventures e l’hanno piazzata nel cuore pulsante della finanza europea: Londra.
+La facilità d’uso del GPT Builder è dimostrata efficacemente da Sam Altman stesso, uno dei creatori di ChatGPT, che mostra come, in soli quattro minuti, sia possibile creare un’intelligenza artificiale in grado di agire da mentore per startup. Inserendo semplicemente le trascrizioni di lezioni universitarie passate, Altman è riuscito a dar vita ad una versione AI di sé stesso, pronta ad offrire consigli e supporto.
 
-Ma chi ci sarà a gestire questa scatola piena di opportunità? Un team di veterani dell’alta tecnologia. Tra loro c’è un ex capo di Google, Paolo Martini, e Marco Tronchetti Provera, l’ex numero uno di Pirelli. Non male come dream team.
+L’aspetto più rivoluzionario del GPT Builder è il modo in cui utilizza la conoscenza umana. Non serve più essere un programmatore esperto per creare un AI; ciò che conta è il ‘know how’. Questo significa che l’esperienza, spesso acquisita attraverso anni di tempo ed energia, può ora essere trasmessa all’AI, che può utilizzarla per aiutare gli utenti in modo efficiente, mirato e soprattutto veloce!
 
-E sembra che non siano gli unici ad avere fiducia in questo progetto: hanno già raccolto ben 100 milioni di euro, una cifra da capogiro, per finanziare le startup europee che si occupano di moda, retail e sostenibilità. Un focus non casuale, visto che i Benetton in questi settori ci sanno fare davvero!
+Fino ad oggi l’esperienza era un asset che, nel corso naturale delle cose, si acquisisce con una risorsa scomoda, energivora e limitata: il tempo.
 
-Ma non hanno perso tempo: hanno già scelto il loro primo cavallo di battaglia, Bolt, una startup londinese che si occupa di micro-mobilità. Insomma, se vedete per le strade delle città europee sempre più scooter e biciclette a noleggio, sapete a chi dire grazie!
+Quando, per usare lo stesso esempio di Sam Altman, chiediamo consigli ad un mentor, rompiamo in parte questa catena, riusciamo ad accedere ad una porzione di quell’asset, la porzione che sinteticamente ci serve di più in quel preciso momento.
 
-Questa mossa dei Benetton non è solo un colpo di testa. È il segnale di un trend più ampio: le famiglie imprenditoriali italiane stanno scoprendo le potenzialità del settore tecnologico. Prima di loro, anche i famosi Agnelli, i Berlusconi e i De Benedetti hanno deciso di puntare sulle startup.
+Le implicazioni sono enormi. Pensiamo al mondo della consulenza professionale, per esempio. Immaginate di poter trasferire la conoscenza e l’esperienza di un esperto in un Business Plan, un Financial Plan o un Pitch Deck direttamente in un AI. Questo livellerà il campo di gioco, costringendo i consulenti ad aggiornare costantemente le loro competenze e a offrire servizi più innovativi, senza spazio per adagiarsi. Stando così le cose, solo i contenuti originali e il vero valore aggiunto della genialità imprenditoriale potranno fare la differenza.
 
-I Benetton con il loro nuovo fondo 2100 Ventures stanno scommettendo sul futuro, con un occhio attento alle loro radici nella moda e nell’imprenditorialità. È un segnale forte e positivo, non solo per l’innovazione tecnologica, ma anche per tutte le giovani aziende europee che hanno grandi idee ma cercano qualcuno che creda in loro. Chi l’avrebbe detto? Dalla moda alle startup, i Benetton continuano a stare al centro dell’innovazione.
+Considerate le possibilità nel settore medico. AI infuse con la totalità delle conoscenze mediche potrebbero teoricamente prevedere e risolvere problemi che fino ad ora erano fuori dalla portata dei medici. Ma potrà sostituirsi all’empatia e al tocco umano di alcuni dottori?
+
+Tutto ciò arriva in un momento in cui la tecnologia si sviluppa a ritmi vertiginosi. L’intelligenza artificiale ha il potenziale per sostituire l’uomo in molte funzioni, ma con essa sorge anche una responsabilità morale: quella di utilizzare queste tecnologie per costruire un futuro migliore, anziché contribuire alla distruzione.
+
+Torniamo al nostro esempio. Per le startup e per coloro che sono interessati a sfruttare questa tecnologia, l’opportunità è enorme. Potranno personalizzare un’intelligenza artificiale con il know-how specifico fornito da mentor, professionisti legali o finanziari, per esempio, creando soluzioni ad hoc che servono specifici settori di mercato. In questo modo i futuri imprenditori possono sfruttare la potenza del machine learning e dell’elaborazione del linguaggio naturale per proporre servizi innovativi, migliorare i processi decisionali e offrire consulenze specializzate a una frazione del costo tradizionale. A loro avere quella scintilla che distingue il vero imprenditore dal ‘semplice’ consulente, ma soprattutto la capacità di saper porre le domande corrette. E spesso il problema è proprio nelle domande che poniamo e nell’umiltà di voler imparare.
+
+Questo è il futuro che GPT Builder promette: una democratizzazione dell’accesso all’intelligenza artificiale, dove la conoscenza e l’esperienza umana diventano i veri protagonisti nella creazione di soluzioni AI che prima erano inimmaginabili.
+
+ 
+
+
+
+ 
 

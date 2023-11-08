@@ -1,0 +1,16 @@
+https://www.wired.it/article/batterie-sodio-sabbia-metalli-rari-cina/
+
+I progetti per togliere i metalli rari dalle batterie (e ridurre la dipendenza dalla Cina)
+
+Le batterie termiche naturali, fatte di materiali abbondanti come la sabbia e il sale, potrebbero essere la soluzione. Ecco le strade della ricerca, anche in Italia
+
+La ricerca scientifica nel campo delle batterie si sta concentrando sulla sostituzione dei metalli rari con alternative più economiche – le chimiche al litio-ferro-fosfato anziché al nichel-manganese-cobalto; le batterie al sodio anziché al litio – in modo da ridurre il costo della transizione ecologica e il rischio della dipendenza dalla Cina. Pechino è il paese dominante nella raffinazione di pressoché tutti i minerali critici. L’innovazione più dirompente è quella della batteria allo stato solido, potente, piccola e sicura. In alcuni casi, però, si sta prendendo ispirazione dalle civiltà antiche per cercare di sviluppare accumulatori fatti di materiali naturali abbondanti e abbordabili.
+
+Le batterie naturali, antiche e moderneL’idea è di sfruttare il sale o la sabbia, ad esempio, per conservare il surplus di energia prodotto dagli impianti eolici e fotovoltaici – incostanti poiché dipendenti dal meteo – in forma di calore. Oggi, infatti, manca ancora una tecnologia economica e in grado di stoccare l’energia rinnovabile per lunghi periodi di tempo: le batterie agli ioni di litio, le più diffuse, costano tanto, rischiano di prendere fuoco e soprattutto hanno una capacità di stoccaggio limitata a qualche ora.
+
+La situazione:
+
+L’intuizione delle batterie termiche naturali arriva da lontano. Gli antichi egizi costruivano le case in mattoni di terra (fatti di terriccio, argilla, sabbia e acqua) in modo che i muri “intrappolassero” il calore del Sole durante il giorno e lo rilasciassero nelle notti fredde. I popoli indigeni d’America facevano la stessa cosa con l’adobe (argilla, sabbia, acqua e paglia). Le moderne batterie naturali riprendono questa caratteristica e la evolvono in soluzioni ben più avanguardistiche, eppure semplici all’apparenza.
+
+In Finlandia l’azienda Polar Night Energy ha costruito una batteria di sabbia, ovvero un sistema che prima converte in calore l’elettricità generata dai pannelli solari e dalle turbine eoliche grazie a dei resistori; dopodiché conserva questo calore in un grande contenitore isolato pieno di sabbia. La sabbia – che può provenire da un deposito naturale ma anche da un cantiere dismesso – viene mantenuta costantemente a una temperatura di oltre 500 gradi Celsius, in modo da essere sempre “carica” per restituire energia alla rete, andando così a riscaldare e illuminare gli edifici. L’intero impianto è supportato da una serie di valvole e sensori di monitoraggio.
+

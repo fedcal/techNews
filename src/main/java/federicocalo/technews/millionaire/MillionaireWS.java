@@ -39,12 +39,12 @@ public class MillionaireWS {
         for (String urlStr : linksArticle){
             System.out.println("===============================================================================\n");
             System.out.println("MillionaireWS: "+String.valueOf(countArticle)+"/"+String.valueOf(linksArticle.size())+"\n");
+            System.out.println(urlStr);
             System.out.println("===============================================================================\n");
             if (urlStr.contains("author")||urlStr.contains("newsletter-new")){
                 continue;
             }
             WebDriver article = new ChromeDriver();
-            article.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
             article.get(urlStr);
 
             String path = FolderUtility.mkdirStr(FolderUtility.pathMillionair+"/"+String.valueOf(countArticle));
@@ -123,7 +123,8 @@ public class MillionaireWS {
         List<WebElement> articles = mainSite.findElements(By.tagName("article"));
         for(WebElement card : articles){
             try {
-                linksArticle.add(card.findElement(By.tagName("a")).getAttribute("href"));
+                if(!linksArticle.contains(card.findElement(By.tagName("a")).getAttribute("href")))
+                    linksArticle.add(card.findElement(By.tagName("a")).getAttribute("href"));
             }catch (Exception e){
 
             }

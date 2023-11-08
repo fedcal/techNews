@@ -1,0 +1,20 @@
+https://www.wired.it/article/leggere-il-pensiero-dispositivo-sensori-cerebrali-duke-university/
+
+Un nuovo dispositivo capace di leggere il pensiero
+
+L' impianto cerebrale sviluppato alla Duke University è in grado di decodificare più velocemente i segnali provenienti dal cervello
+
+Tradurre i segnali cerebrali in ciò che si vuole dire. In altre parole, saper leggere il pensiero. È questo il compito di un nuovo dispositivo sviluppato da un team di neuroscienziati, neurochirurghi e ingegneri della Duke University, che si è dimostrato essere ancora più veloce di quelli testati fino ad oggi e che potrebbe in futuro aiutare le persone non più in grado di parlare a riacquistare la capacità di comunicare attraverso un'interfaccia cervello-computer. “Ci sono molti pazienti che soffrono di disturbi motori debilitanti, come la sclerosi laterale amiotrofica o la sindrome lock-in, che possono compromettere la loro capacità di parlare”, ha commentato Gregory Cogan, tra gli autori dello studio appena pubblicato su Nature Communications. “Ma gli strumenti attualmente disponibili per consentire loro di comunicare sono generalmente molto lenti e macchinosi”.
+
+Velocità e precisioneQuando parliamo normalmente pronunciamo circa 150 parole al minuto. Tuttavia, attualmente la migliore velocità di decodifica vocale raggiunta dalle tecnologie attuali arriva a circa 78 parole al minuto. Un ritardo dovuto in parte ai (relativamente) pochi sensori cerebrali che possono essere incorporati su un frammento di materiale sottilissimo. Meno sensori, quindi, forniscono informazioni meno decifrabili da decodificare. Per la nuova tecnologia, invece, il team è riuscito a inserire ben 256 microscopici sensori cerebrali su un frammento di materiale grande quanto un francobollo.
+
+Il nuovo dispositivoDan Vahaba/Duke University
+
+Leggere il pensieroDopo aver messo a punto l'impianto, i ricercatori lo hanno poi testato temporaneamente su quattro pazienti sottoposti a un intervento chirurgico al cervello per condizioni come la malattia di Parkinson o la rimozione di un tumore. Il tempo a disposizione in sala operatoria, quindi, è stato piuttosto limitato. “Non volevamo aggiungere ulteriore tempo alla procedura operativa, quindi dovevamo testarlo entro 15 minuti”, ha commentato Cogan.
+
+Ed ecco l'esperimento: dopo aver ascoltato una serie di parole senza senso, ai partecipanti è stato chiesto di ripeterle ad alta voce. Il dispositivo ha registrato l'attività della corteccia motoria del linguaggio di ciascun paziente mentre coordinava quasi 100 muscoli che muovono le labbra, la lingua, la mascella e la laringe. Successivamente, i ricercatori hanno raccolto i dati e li hanno inseriti in un algoritmo di apprendimento automatico per vedere con quanta precisione poteva prevedere quale suono veniva prodotto, basandosi solo sulle registrazioni dell'attività cerebrale.
+
+Per alcuni suoni, come g nella parola “gak”, il dispositivo ha capito correttamente l'84% delle volte quando era il primo suono di una serie di tre. La precisione, tuttavia, diminuiva man mano che l'impianto analizzava i suoni nel mezzo o alla fine di una parola senza senso. Inoltre ha presentato difficoltà nel caso in cui due suoni erano simili, come p e b.
+
+Nel complesso, tuttavia, è risultato accurato nel 40% dei casi. Potrebbe sembrare un punteggio basso, commentano gli autori, ma è invece piuttosto incoraggiante dato che simili impianti richiedono ore o giorni e non 15 minuti come in questo ultimo caso. Ovviamente, c'è ancora molta strada da fare e siamo, quindi, lontani da una applicazione del nuovo impianto nella realtà. “Siamo al punto in cui è ancora molto più lento del linguaggio naturale”, ha concluso il co-autore Jonathan Viventi, “ma ora possiamo intravedere la traiettoria attraverso cui potremmo essere in grado di arrivarci”.
+

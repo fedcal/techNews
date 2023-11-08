@@ -1,0 +1,22 @@
+https://www.wired.it/article/virus-immagine-infezione-cellule-ospiti-abbraccio/
+
+Due virus che si “abbracciano” sono stati fotografati per la prima volta
+
+Un team statunitense ha identificato un nuovo sistema di collaborazione per infettare le cellule ospiti e per la prima volta è riuscito ad immortalare l’interazione virale
+
+Cose mai viste: un virus che si attacca letteralmente a un altro virus. È l’incredibile immagine ottenuta dai ricercatori della University of Maryland Baltimore County (Umbc) e della Washington University di St. Louis, che, un po’ per caso (come spesso avviene), hanno scoperto un nuovo tipo di relazione virus-virus per infettare le cellule ospiti. I dettagli della scoperta sono pubblicati sul Journal of the International Society of Microbial Ecology.
+
+Un satellite e un aiutanteTo honor your privacy preferences, this content can only be viewed on the site it originates from.
+
+SerendipitàCome spiega Ivan Erill, coordinatore della ricerca, ci sono virus, detti satelliti, che non sono capaci di completare il proprio ciclo replicativo all’interno di una cellula ospite da soli, ma hanno bisogno di appoggiarsi ad altri virus, che per questo vengono indicati come aiutanti (helper). Solo in questo modo i satelliti riescono a infettare anch’essi l’ospite, a sfruttarlo per creare copie del proprio materiale genetico e quindi a propagare se stessi. Questo sistema non è nuovo. Si conoscono molti esempi di virus che sfruttano altri virus per infettare e replicarsi. Ma quanto scoperto dal team statunitense è sorprendente: mai nessuno prima era riuscito a scattare una foto di una relazione così stretta tra satellite e aiutante, in cui il primo si aggrappa letteralmente al secondo.
+
+Un nuovo sistema satellite-aiutanteTutto nasce dal programma Sea-Phages, che ha lo scopo di isolare batteriofagi (o fagi, cioè virus che infettano cellule batteriche) da campioni ambientali e studiarne il materiale genetico. Uno dei campioni inviati al sequenziamento, tuttavia, aveva qualcosa di strano: oltre al materiale genetico del fago che si pensava di aver isolato, c’era un’altra piccola sequenza genetica sconosciuta. Pensando a una contaminazione accidentale, Erill (che è anche responsabile di Sea-Phages) ed il collega Steven Caruso hanno riprovato a isolare il fago per un nuovo sequenziamento. Il risultato è stato il medesimo: nel campione era presente il genoma noto, quello che ci si aspettava di trovare, ma anche una piccola sequenza genetica ignota.
+
+Cosa stava succedendo? La sorprendente risposta è arrivata quando il team ha provato a sbirciare direttamente dentro le provette, avvalendosi di un microscopio elettronico a trasmissione (Tem): attaccato al collo del fago (cioè alla struttura che collega il capside virale alla coda) c’era un altro piccolo virus. Non si trattava di un caso. Le analisi condotte da ricercatori hanno indicato che l’80% del fago aiutante aveva il satellite avvinghiato al collo e che il restante aveva “segni di morsi” nel sito dell’attacco.
+
+Per capire meglio l’insolita situazione, il team ha proseguito analizzando in dettaglio i genomi di tutti gli attori coinvolti: quello del fago aiutante, quello del satellite e anche quello delle cellule ospiti. L’esito è stato qualcosa di mai visto prima, la conferma dell’identificazione di un nuovo tipo di sistema e di relazione tra virus.
+
+Rispetto agli altri virus satelliti finora identificati, quello trovato dai ricercatori della Umbc (che lo hanno soprannominato MiniFlayer) non possiede un gene per integrarsi nel genoma dell’ospite dopo essere entrato nella cellula. Per questo - sostengono gli autori - deve avvinghiarsi al suo aiutante (MindFlayer) se vuole infettare e replicarsi.
+
+In attesa di ulteriori conferme del meccanismo, Tagide deCarvalho, l’esperta che ha catturato le immagini dell’abbraccio tra virus, ha sottolineato come la scoperta porti a dover rivalutare ricerche fatte in passato: "È possibile che molti dei batteriofagi che si pensava fossero contaminati fossero in realtà questi sistemi aiutante-satellite".
+
